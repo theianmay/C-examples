@@ -1,2 +1,2 @@
 # C-examples
-Examples for learning purposes - feel free to use and hopefully this helps!
+Examples from various sources for learning purposes - feel free to use and hopefully this helps!
